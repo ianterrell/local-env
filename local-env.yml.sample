@@ -1,0 +1,6 @@
+development:
+  AWS_ACCESS_KEY: 2hsjckh2hsjhzjh3hzh
+  AWS_SECRET_KEY: hkskdjkjsjfiud9uweirjk234jrihfsd
+test:
+  AWS_ACCESS_KEY: test2hsjckh2hsjhzjh3hzh
+  AWS_SECRET_KEY: testhkskdjkjsjfiud9uweirjk234jrihfsd
